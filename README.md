@@ -34,47 +34,41 @@ This project teaches **real backend intuition** by letting me *experience* it fi
 
 ## 🗂️ Directory Structure
 
+```text
 backend-concurrency-lab/
-│
 ├── phase-1-simple-server/
 │   ├── thread-server.py
 │   ├── async-server.py
 │   ├── process-server.py
 │   ├── README.md
 │   └── load-tests/
-│
 ├── phase-2-fastapi-sync/
 │   ├── app.py
 │   ├── README.md
 │   └── load-tests/
-│
 ├── phase-3-fastapi-async/
 │   ├── app.py
 │   ├── README.md
 │   └── load-tests/
-│
 ├── phase-4-race-condition/
 │   ├── app.py
-│   ├── README.md
-│
+│   └── README.md
 ├── phase-5-locks/
 │   ├── app.py
-│   ├── README.md
-│
+│   └── README.md
 ├── phase-6-nginx-architecture/
 │   ├── nginx.conf
 │   ├── docker-compose.yml
-│   ├── README.md
-│
+│   └── README.md
 ├── phase-7-gpu-queue/
 │   ├── app.py
 │   ├── gpu_sim.py
-│   ├── README.md
-│
+│   └── README.md
 └── docs/
     ├── architecture-diagrams/
     ├── performance-results/
     └── lessons-learned.md
+```
 
 ## Project Goals
 
